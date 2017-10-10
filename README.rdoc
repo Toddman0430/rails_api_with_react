@@ -1,0 +1,9 @@
+= Rails API w/React Simple Blog App
+
+1. Bundle install
+2. Rails db:migrate
+3. Rails db:seed
+4. Rails s
+5. Profit
+ 
+
